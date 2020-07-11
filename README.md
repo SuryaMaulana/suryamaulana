@@ -6,7 +6,6 @@ you can always see my Contribution and My Projects at my GitHub account [https:/
 
 also known as Surya1337. 16 Y.O., now.
 
-get in touch on my social media by tapping 3 straight lines on the left bottom.
 ---
 
 ## Careers 🔭
