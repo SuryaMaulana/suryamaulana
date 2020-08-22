@@ -6,6 +6,8 @@ you can always see my Contribution and My Projects at my GitHub account [https:/
 
 also known as Surya1337. 16 Y.O., now.
 
+![Muhammad Surya github stats](https://github-readme-stats.vercel.app/api?username=suryamaulana&show_icons=true&theme=radical)
+
 ## Anything else
 ### Some random acivity
 1. Telling people why (digital) privacy is matters,
