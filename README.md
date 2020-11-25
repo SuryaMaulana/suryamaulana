@@ -4,7 +4,7 @@ My daily activities are as a student ðŸŒ±, and if at home I am happy to learnðŸŒ
 
 you can always see my Contribution and My Projects at my GitHub account [https://github.com/SuryaMaulana](https://github.com/SuryaMaulana)
 
-also known as Surya1337. 16 Y.O., now.
+also known as -. 16 Y.O., now.
 
 ![Muhammad Surya github stats](https://github-readme-stats.vercel.app/api?username=suryamaulana&show_icons=true&theme=radical)
 
