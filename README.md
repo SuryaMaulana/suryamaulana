@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My daily activities are as a student 🌱, and if at home I am happy to learn🌱 Cyber Security at [LMS Onno Center](https://lms.onnocenter.or.id/moodle/) and [Life Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) youtube channel.<br>
+My daily activities are as a cyber crime analyst 🌱,
 
-you can always see my Contribution and My Projects at my GitHub account [https://github.com/SuryaMaulana](https://github.com/SuryaMaulana)
-
-also known as -. 16 Y.O., now.
+also known as Surya. 16 years old., now.
 
 ![Muhammad Surya github stats](https://github-readme-stats.vercel.app/api?username=suryamaulana&show_icons=true&theme=radical)
 
